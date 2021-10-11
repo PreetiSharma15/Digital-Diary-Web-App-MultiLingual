@@ -1,1 +1,1 @@
-# Digital-Diary-Web-App-MultiLingual
+# Digital-Diary-Web-App
